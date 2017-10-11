@@ -1,0 +1,11 @@
+AllCops:
+  TargetRubyVersion: 2.4
+
+Metrics/LineLength:
+  Max: 100
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/EndOfLine:
+  EnforcedStyle: lf
